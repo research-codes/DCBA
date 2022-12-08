@@ -1,2 +1,2 @@
 # DCBA
-codes for paper "DCBA: Data-free Class-specific Backdoor Attack on Non-IID Federated Learning"
+codes for paper "DCBA: Data-free Class-specified Backdoor Attack on Federated Learning with Non-IID Data"
